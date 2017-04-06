@@ -178,6 +178,7 @@ CDN_PROVIDER cdnList[] = {
   {".netlify.com", "Netlify"},
   {".b-cdn.net", "BunnyCDN"},
   {".pix-cdn.org", "Advanced Hosters CDN"},
+  {".alikunlun.com", "Alibaba Cloud CDN"},
   {"END_MARKER", "END_MARKER"}
 };
 
